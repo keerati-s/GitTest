@@ -9,3 +9,4 @@
 - Newer
 - New Feauture
 - Delete Feature
+- Edit Feature
