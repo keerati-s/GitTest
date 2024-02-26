@@ -8,4 +8,3 @@
 - Edit With Request
 - Newer
 - New Feauture
-- Delete Feature
