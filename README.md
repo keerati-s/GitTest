@@ -1,7 +1,7 @@
 # GitTest
 
 - Test By Keerati.s
-- Knot
+- Fix Bug
 - Edit With Pull
 - New Line New Rule
 - Change Rule
