@@ -10,3 +10,4 @@
 - New Feauture
 - Fix Base
 - New Base
+- New 6
